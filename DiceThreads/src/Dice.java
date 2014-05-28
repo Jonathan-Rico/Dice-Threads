@@ -18,3 +18,4 @@ public class Dice implements Runnable {
 	}	
 }
 		
+// Please see if you can print out the thread name in line #5		
